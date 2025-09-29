@@ -16,8 +16,8 @@
 .thebooleaner{
     color: #23a2b3;
 }
-.data{
-    color: #1a1919;
+.grey{
+    color: #888686;
 }
 .ev-yellow{
     background-color: #ffff00;
@@ -35,4 +35,20 @@
 }
 .bianco{
     background-color: white;
+}
+.monitor{
+    height: 150px;
+    width: 150px;
+    background-image: url(../img/img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+.graphic{
+    height: 150px;
+    width: 150px;
+    background-image: url(../img/img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
 }
