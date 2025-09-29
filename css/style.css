@@ -22,9 +22,13 @@
 .ev-yellow{
     background-color: #ffff00;
 }
+.tabella{
+    width: 600px;
+}
 .blu{
     background-color: #4393df;
     color: white;
+    height: 20px;
 }
 .celeste{
     background-color: #23a2b3;
